@@ -1,3 +1,0 @@
-class PageActons
-
-end
